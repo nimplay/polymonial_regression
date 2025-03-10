@@ -56,3 +56,5 @@ The application uses **Polynomial Regression** to model the relationship between
 
 
 # polymonial_regression
+
+https://polymonialregression-bdsdrcympu4nwrg4fn3awh.streamlit.app/
